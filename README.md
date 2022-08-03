@@ -8,6 +8,8 @@ GitHub Docs https://docs.github.com/en
 $\Longrightarrow$ 
 https://www.tablesgenerator.com/markdown_tables 
 
+Чтобы сделать перенос строки вместо абзаца, нужно поставить два пробела в конце предыдущей строки. Заголовки отмечаются диезом `#` в начале строки, от одного до шести.
+
 Math support in Markdown 
 
   https://github.blog/2022-05-19-math-support-in-markdown/ 
