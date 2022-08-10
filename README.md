@@ -42,3 +42,13 @@ Include diagrams in your Markdown files with Mermaid
 - https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/  
 - https://mermaid.live/edit#pako:eNpVkMtqw0AMRX9FaNVA_ANeFBI7zSbQQrLzeCE8SmZI54E8JgTb_95x00KileCcexEasQuascSLUDRwqpWHPJumMmL75KhvoSjepz0ncMHzfYLt2z5Ab0KM1l9WD3-7SFCNh0VjSMb66_xA1W_-0_MEdXOgmEJsn8npFibYNfbL5PpXYoRz6qM5U3mmoiOBiqTFNToWR1bns8cloDAZdqywzKsmuSpUfs7eEDUl3mmbgmDu-O55jTSkcLz7DsskA_9LtaX8AvdnzT9s-1qQ 
 
+\
+\
+Месье Бэзликов, [8/10/2022 6:15 PM]
+а кто-то знает, насколько в markdown интегрирован latex? Какие-то основные символы он распознает (\leqslant, например), но интересно, насколько глубока интеграция... может, решение листков в гитхабе оформлять, у кого-то был опыт?)
+
+Ivan Makovetskiy, [8/10/2022 6:28 PM]
+[In reply to Месье Бэзликов]
+беда маркдауна в том, что у него поздно появился обобщающий стандарт — слишком много реализаций
+
+единственный мд, который ест гитхаб с нормальной поддержкой латеха (который я знаю) https://opensource.com/article/20/4/emacs-org-mode
