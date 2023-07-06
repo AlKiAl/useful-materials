@@ -1,3 +1,7 @@
+<div align="left">Конструктор сайтов "Нубекс"</div>
+<p align="center">Конструктор сайтов "Нубекс"</p>
+<p align="right">Конструктор сайтов "Нубекс"</p>
+
 ПРАВИЛА ОФОРМЛЕНИЯ ФАЙЛА README.MD НА GITHUB https://gist.github.com/alinastorm/8a04cdbc36be9c051a66f90ae6d6df35 
 
 GitHub Docs https://docs.github.com/en
