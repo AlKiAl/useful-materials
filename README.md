@@ -1,6 +1,6 @@
-<div align="left">Конструктор сайтов "Нубекс"</div>
-<p align="center">Конструктор сайтов "Нубекс"</p>
-<p align="right">Конструктор сайтов "Нубекс"</p>
+<div align="left">Конструктор</div>
+<p align="center">Конструктор</p>
+<p align="right">Конструктор</p>
 
 _________
 
