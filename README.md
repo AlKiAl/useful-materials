@@ -4,6 +4,20 @@
 
 _________
 
+spoiler markdown
+- https://meta.stackexchange.com/questions/72877/whats-the-exact-syntax-for-spoiler-markup
+- https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287
+- https://stackoverflow.com/questions/32814161/how-to-make-spoiler-text-in-github-wiki-pages
+
+<details>  # открытие спойлера
+<summary> Заголовок спойлера </summary>  # здесь текст заголовка спойлера
+... здесь сам код
+</details>
+
+Вот пример
+https://github.com/pozarnik/handbook_algorithms/blob/main/README.md
+_________
+
 Два способа вставить фото:
 
 ![ alt](https://github.com/SkosMartren/useful-materials/blob/main/BST_1.png)
